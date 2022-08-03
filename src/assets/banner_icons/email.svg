@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg9"
+   width="40.753326"
+   height="40.753296"
+   viewBox="0 0 40.753328 40.753297"
+   sodipodi:docname="COTIZACION_PREVIEW_1.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs13">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3527">
+      <path
+         d="M 0,1000 H 1000.001 V 0 H 0 Z"
+         id="path3525" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <g
+     id="g17"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 1"
+     transform="matrix(1.3333333,0,0,-1.3333333,-321.16478,127.84909)">
+    <g
+       id="g3521">
+      <g
+         id="g3523"
+         clip-path="url(#clipPath3527)">
+        <g
+           id="g3529"
+           transform="translate(256.1796,65.3218)">
+          <path
+             d="m 0,0 c -8.458,-0.005 -15.298,6.815 -15.306,15.259 -0.007,8.439 6.834,15.297 15.271,15.306 C 8.41,30.574 15.255,23.739 15.259,15.294 15.262,6.825 8.458,0.005 0,0"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3531" />
+        </g>
+        <g
+           id="g3533"
+           transform="translate(253.3832,80.3174)">
+          <path
+             d="m 0,0 -5.335,-3.939 v 8.17 z m 1.291,-1.052 c 0.442,-0.502 0.913,-0.757 1.404,-0.759 h 0.007 c 0.505,0 0.998,0.269 1.467,0.799 L 9.44,-4.844 H -3.833 Z M -3.623,4.933 H 9.19 L 2.718,-0.094 Z M 11.073,4.349 v -8.38 L 5.493,0.02 Z M 11.164,6.661 2.874,6.662 2.538,6.655 0.593,6.656 c -2.029,0 -4.057,0 -6.085,-0.003 -1.124,-0.002 -1.504,-0.384 -1.506,-1.516 -0.005,-3.372 -0.006,-6.744 0.001,-10.116 0.002,-1.062 0.417,-1.476 1.48,-1.477 2.845,-0.003 5.689,-0.005 8.534,-0.005 2.732,0 5.465,0.002 8.198,0.004 1.087,0.002 1.512,0.431 1.514,1.533 0.005,3.347 0.005,6.693 0,10.04 -10e-4,1.14 -0.411,1.544 -1.565,1.545"
+             style="fill:#ff9332;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path3535" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

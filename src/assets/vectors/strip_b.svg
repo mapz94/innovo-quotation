@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg9"
+   width="1333.3333"
+   height="217.51868"
+   viewBox="0 0 1333.3333 217.51868"
+   sodipodi:docname="COTIZACION_PREVIEW_1.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs13">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3621">
+      <path
+         d="M 0,1000 H 1000 V 0 H 0 Z"
+         id="path3619" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3629">
+      <path
+         d="M 0,963.505 H 1000 V 830.66 H 0 Z"
+         id="path3627" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
+  <g
+     id="g3601"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 2"
+     transform="matrix(1.3333333,0,0,-1.3333333,9.6814452e-5,1306.1988)">
+    <g
+       id="g3615">
+      <g
+         id="g3617"
+         clip-path="url(#clipPath3621)">
+        <g
+           id="g3623">
+          <g
+             id="g3625" />
+          <g
+             id="g3635">
+            <g
+               clip-path="url(#clipPath3629)"
+               opacity="0.899994"
+               id="g3633">
+              <path
+                 d="M 1000,830.66 H 0 v 132.846 h 1000 z"
+                 style="fill:#414142;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path3631" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3637"
+       transform="translate(0,979.6491)">
+      <path
+         d="M 0,0 V -25.491 H 233.131 L 406.188,-163.139 H 1000 v 25.491 H 419.464 L 246.406,0 Z"
+         style="fill:#f4913d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3639" />
+    </g>
+  </g>
+</svg>
